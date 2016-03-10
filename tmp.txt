@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+content-type: application/json
+content-length: 447
+date: Thu, 03 Mar 2016 06:58:12 GMT
+x-amzn-RequestId: c71a5e0e-b140-4d28-b2bb-2bdf6c927537
+connection: Keep-Alive
+
+{"state":{"desired":{"SC_172":"Hello world","wtf":123,"good night":"world","hello":"world","Charles":"Hello123"},"delta":{"SC_172":"Hello world","wtf":123,"good night":"world","hello":"world","Charles":"Hello123"}},"metadata":{"desired":{"SC_172":{"timesta
